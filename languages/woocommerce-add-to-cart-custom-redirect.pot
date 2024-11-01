@@ -1,0 +1,123 @@
+# Copyright (C) 2024 ForwardFlip
+# This file is distributed under the GPL 2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Add-to-Cart Custom Redirect 1.2.14\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/woocommerce-add-to-cart-custom-"
+"redirect\n"
+"POT-Creation-Date: 2024-03-07 12:18:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/class-product-data-tabs.php:33
+msgid "Redirects"
+msgstr ""
+
+#: templates/product-data-tab-target.php:27
+msgid "Add-to-Cart Redirect URL"
+msgstr ""
+
+#: templates/product-data-tab-target.php:32
+msgid ""
+"This is where the user will be redirected to after this product is added to "
+"the cart. Enter a full URL."
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:19
+msgid "Upgrade to Custom Redirects for WooCommerce"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:21
+msgid ""
+"With the premium version of Custom Redirects for WooCommerce, you get "
+"access to:"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:25
+msgid "After-purchase redirects when your customers complete checkout"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:26
+msgid "Product-specific Redirect URLs"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:27
+msgid "Product Category/Tag Redirects"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:28
+msgid "Redirect on AJAX Add-to-Cart"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:29
+msgid "Redirect to URL in new tab"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:30
+msgid "Convenient admin page to see all your redirects"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:31
+msgid "Seamless upgrade from the Free version to Premium"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:32
+msgid "One Year of Updates & Premium Support"
+msgstr ""
+
+#: templates/product-data-tab-upgrade-notice.php:37
+msgid "Okay, I need the features!"
+msgstr ""
+
+#: woocommerce-custom-redirect.php:137
+msgid ""
+"The Custom WooCommerce Redirects plugin requires you to install and "
+"activate WooCommerce first."
+msgstr ""
+
+#: woocommerce-custom-redirect.php:166
+msgid "Custom Redirects for WooCommerce Premium"
+msgstr ""
+
+#: woocommerce-custom-redirect.php:166
+msgid "Redirects PREMIUM"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Add-to-Cart Custom Redirect"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wc-redirects.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Redirect customers to a defined URL after a WooCommerce product is added to "
+"the cart."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ForwardFlip"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://forwardflip.com"
+msgstr ""
